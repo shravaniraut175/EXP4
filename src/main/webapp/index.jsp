@@ -5,9 +5,9 @@
 </head>
 <body>
     <h1>Hello World! This is Experiment 4 App</h1>
-    <h1>Shravani</h1>
     <p>Jenkins + Gradle + Tomcat is working!</p>
     <a href="hello">Test Servlet</a>
 </body>
 </html>
+
 
