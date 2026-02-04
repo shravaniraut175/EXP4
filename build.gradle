@@ -1,5 +1,0 @@
-task build {
-    doLast {
-        println 'Gradle build successful'
-    }
-}
