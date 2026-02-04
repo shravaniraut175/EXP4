@@ -13,9 +13,3 @@ repositories {
 dependencies {
     providedCompile 'javax.servlet:javax.servlet-api:4.0.1'
 }
-
-task build {
-    doLast {
-        println 'Gradle build successful'
-    }
-}
